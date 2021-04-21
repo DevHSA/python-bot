@@ -1,4 +1,4 @@
 import pyautogui
 
-img = pyautogui.screenshot(region=(605,405,150,28))
+img = pyautogui.screenshot(region=(285,775,258,259))
 img.save(r"D:\GIT\python-bot\testimage.png")
